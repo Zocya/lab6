@@ -1,4 +1,3 @@
-# lab6
 My task was to:
 Implement REST-service (operations GET/POST/PUT/DELETE) for one of classes from lab3 with usage of python tools:
 Flask
